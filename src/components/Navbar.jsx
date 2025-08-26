@@ -58,7 +58,7 @@ function Navbar() {
             onClick={() => setIsOpen(false)}
             className="hover:text-gray-200 text-lg"
           >
-            My Pasts
+            My Paste
           </Link>
         </div>
       )}
